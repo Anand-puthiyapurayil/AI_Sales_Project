@@ -1,8 +1,11 @@
 # 📈 End-to-End ML Sales Predictor Application
 
-This repository provides a comprehensive, interactive application designed for performing Machine Learning predictions on sales data. Built using **Streamlit** for a user-friendly frontend and **FastAPI** for a robust backend, this project facilitates data ingestion, preprocessing, model training, prediction, and evaluation—all in one seamless platform.
+
+![Demo](assets/salespredictor.png)
+
 
 ---
+
 
 ## 🎯 Application Features
 
